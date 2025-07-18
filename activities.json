@@ -1,0 +1,88 @@
+{
+    "activities": [
+        {
+            "name": "Code",
+            "time_entries": [
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:15",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 5.002418,
+                    "start_time": "2025-07-18 11:42:10"
+                },
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:29",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 8.557705,
+                    "start_time": "2025-07-18 11:42:20"
+                }
+            ]
+        },
+        {
+            "name": "Check GitHub File Updates \u2014 Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:18",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 3.001705,
+                    "start_time": "2025-07-18 11:42:15"
+                },
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:32",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 2.004612,
+                    "start_time": "2025-07-18 11:42:30"
+                }
+            ]
+        },
+        {
+            "name": "README.md - twitter - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:20",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 2.159648,
+                    "start_time": "2025-07-18 11:42:18"
+                },
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:30",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 1.000812,
+                    "start_time": "2025-07-18 11:42:29"
+                },
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:37",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 2.001462,
+                    "start_time": "2025-07-18 11:42:35"
+                }
+            ]
+        },
+        {
+            "name": "Your Followers \u2014 Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": "2025-07-18",
+                    "end_time": "2025-07-18 11:42:35",
+                    "hour": 0,
+                    "minutes": 0,
+                    "seconds": 3.002528,
+                    "start_time": "2025-07-18 11:42:32"
+                }
+            ]
+        }
+    ]
+}
